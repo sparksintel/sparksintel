@@ -25,9 +25,15 @@ export default function RootLayout({
       lang="en"
       className={`${inter.className} h-full antialiased`}
     >
-      <body className="min-h-full flex flex-col">
+      {/* 1. We change min-h-full to min-h-screen here */}
+      <body className="min-h-screen flex flex-col">
         <Navbar />
-        {children}
+        
+        {/* 2. We wrap {children} in this main tag to push the footer down on ALL pages */}
+        <main className="flex-1">
+          {children}
+        </main>
+        
         <Footer />
       </body>
     </html>
