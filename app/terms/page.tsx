@@ -69,7 +69,7 @@ export default function TermsPage() {
           </div>
 
           {/* SECTION 2 */}
-          <div style={{ paddingVertical: "16px", paddingBottom: "32px" }}>
+          <div style={{ paddingTop: "16px", paddingBottom: "32px" }}>
             <h2 style={{ fontSize: "24px", fontWeight: "700", letterSpacing: "-0.5px", marginBottom: "16px", color: "#0f2547" }}>
               2. Scope of Use
             </h2>
@@ -84,7 +84,7 @@ export default function TermsPage() {
           </div>
 
           {/* SECTION 3 */}
-          <div style={{ paddingVertical: "16px", paddingBottom: "32px" }}>
+          <div style={{ paddingTop: "16px", paddingBottom: "32px" }}>
             <h2 style={{ fontSize: "24px", fontWeight: "700", letterSpacing: "-0.5px", marginBottom: "16px", color: "#0f2547" }}>
               3. Intellectual Property
             </h2>
@@ -96,7 +96,7 @@ export default function TermsPage() {
           </div>
 
           {/* SECTION 4 */}
-          <div style={{ paddingVertical: "16px", paddingBottom: "32px" }}>
+          <div style={{ paddingTop: "16px", paddingBottom: "32px" }}>
             <h2 style={{ fontSize: "24px", fontWeight: "700", letterSpacing: "-0.5px", marginBottom: "16px", color: "#0f2547" }}>
               4. Acceptable Use
             </h2>
@@ -117,7 +117,7 @@ export default function TermsPage() {
           </div>
 
           {/* SECTION 5 */}
-          <div style={{ paddingVertical: "16px", paddingBottom: "32px" }}>
+          <div style={{ paddingTop: "16px", paddingBottom: "32px" }}>
             <h2 style={{ fontSize: "24px", fontWeight: "700", letterSpacing: "-0.5px", marginBottom: "16px", color: "#0f2547" }}>
               5. External References
             </h2>
@@ -129,7 +129,7 @@ export default function TermsPage() {
           </div>
 
           {/* SECTION 6 */}
-          <div style={{ paddingVertical: "16px", paddingBottom: "32px" }}>
+          <div style={{ paddingTop: "16px", paddingBottom: "32px" }}>
             <h2 style={{ fontSize: "24px", fontWeight: "700", letterSpacing: "-0.5px", marginBottom: "16px", color: "#0f2547" }}>
               6. Disclaimer
             </h2>
@@ -141,7 +141,7 @@ export default function TermsPage() {
           </div>
 
           {/* SECTION 7 */}
-          <div style={{ paddingVertical: "16px", paddingBottom: "32px" }}>
+          <div style={{ paddingTop: "16px", paddingBottom: "32px" }}>
             <h2 style={{ fontSize: "24px", fontWeight: "700", letterSpacing: "-0.5px", marginBottom: "16px", color: "#0f2547" }}>
               7. Limitation of Liability
             </h2>
@@ -152,7 +152,7 @@ export default function TermsPage() {
           </div>
 
           {/* SECTION 8 */}
-          <div style={{ paddingVertical: "16px", paddingBottom: "32px" }}>
+          <div style={{ paddingTop: "16px", paddingBottom: "32px" }}>
             <h2 style={{ fontSize: "24px", fontWeight: "700", letterSpacing: "-0.5px", marginBottom: "16px", color: "#0f2547" }}>
               8. Status of Operations
             </h2>
@@ -164,7 +164,7 @@ export default function TermsPage() {
           </div>
 
           {/* SECTION 9 */}
-          <div style={{ paddingVertical: "16px", paddingBottom: "32px" }}>
+          <div style={{ paddingTop: "16px", paddingBottom: "32px" }}>
             <h2 style={{ fontSize: "24px", fontWeight: "700", letterSpacing: "-0.5px", marginBottom: "16px", color: "#0f2547" }}>
               9. Updates
             </h2>
@@ -175,7 +175,7 @@ export default function TermsPage() {
           </div>
 
           {/* SECTION 10 */}
-          <div style={{ paddingVertical: "16px" }}>
+          <div style={{ paddingTop: "16px" }}>
             <h2 style={{ fontSize: "24px", fontWeight: "700", letterSpacing: "-0.5px", marginBottom: "16px", color: "#0f2547" }}>
               10. Governing Law
             </h2>
